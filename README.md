@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! My name is Gabriel.
+Here's some info about me:
+- 👨‍💻 I'm a Computer Science student;
+- 🧰 I work in computer maintenance;
+- 💬 Interested in programming;
+- 🎮 I love video games;
+- 🎵 Addicted to music (Frank Ocean is my favorite artist);
 
 <!--
 **gabwsant/gabwsant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
