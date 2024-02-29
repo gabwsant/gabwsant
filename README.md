@@ -4,7 +4,7 @@ Here's some info about me:
 - 🧰 I work in computer maintenance;
 - 💬 Interested in programming;
 - 🎮 I love video games;
-- 🎵 Addicted to music (Frank Ocean is my favorite artist);
+- 🎵 Addicted to music.
 
 <!--
 **gabwsant/gabwsant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
