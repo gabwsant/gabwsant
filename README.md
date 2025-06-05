@@ -1,8 +1,8 @@
 ### Hello there! My name is Gabriel.
 Here's some info about me:
 - 👨‍💻 I'm a Computer Science student;
-- 🧰 I work in computer maintenance;
-- 💬 Interested in programming;
+- 🧰 I'm a junior programmer;
+- 💬 PL/SQL - Java - Javascript
 - 🎮 I love video games;
 - 🎵 Addicted to music.
 
